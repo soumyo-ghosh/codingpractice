@@ -6,3 +6,4 @@
 4. Change data type of a series to numerical
 5. Covert the first column of a dataframe as a series
 6. Convert a series of lists to a single series
+7. Get items which aren't common between two series
